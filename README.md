@@ -7,7 +7,7 @@ JOGUE AGORA: https://63abb649d255971cefefed4d--melodic-pudding-bb4775.netlify.ap
 
 O objetivo deste projeto foi ir além da interação de HTML, CSS e Javascript, para isso o projeto foi montado do zero utilizando Photoshop e CorelDraw para criação das telas. O projeto proporcionou um melhor entendimento sobre classes, funcões, renderização, canvas, além de como juntar as peças para desenvolver o game.
 
-O jogo consiste em pular as magias e coletar as Zcoins, adquirindo 60 Zcoins para vencer o jogo e tamém podendo coletar elixir para adicionar vidas.
+O jogo consiste em pular as magias e coletar as Zcoins, adquirindo 60 Zcoins para vencer o jogo e também podendo coletar elixir para adicionar vidas.
 
 ## Tela Inicial
 ![image](https://user-images.githubusercontent.com/75150416/209837794-d3cd8891-f371-4753-bcd2-50841938778f.png)
