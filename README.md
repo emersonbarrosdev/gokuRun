@@ -5,7 +5,7 @@
 
 JOGUE AGORA NO PC: https://63abb649d255971cefefed4d--melodic-pudding-bb4775.netlify.app/
 
-O objetivo deste projeto foi ir além da interação de HTML, CSS e Javascript, para isso o projeto foi montado do zero utilizando Photoshop e CorelDraw para criação das telas. O projeto proporcionou um melhor entendimento sobre classes, funcões, renderização, canvas, além de como juntar as peças para desenvolver o game.
+O objetivo deste projeto foi ir além da interação de HTML, CSS e Javascript, para isso o projeto foi criado do zero tendo como base o jogo Dino do Google utilizando Photoshop e CorelDraw para criação das telas. O projeto proporcionou um melhor entendimento sobre classes, funcões, renderização, canvas, além de como juntar as peças para desenvolver o game.
 
 O jogo consiste em pular as magias e coletar as Zcoins, adquirindo 60 Zcoins para vencer o jogo e também podendo coletar elixir para adicionar vidas.
 
